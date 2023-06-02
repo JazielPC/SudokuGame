@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+hr{
+    width: 450px;
+}
+
+#sudoku-board{
+    width: 450px;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    background-color: blue;
+}
+
+/*#numbers{
+    width: 50px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+}*/
